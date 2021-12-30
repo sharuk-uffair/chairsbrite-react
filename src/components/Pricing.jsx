@@ -28,7 +28,7 @@ function PricingCard(props) {
       </div>
       <div className="pricing-detail">
         <p>₹{props.price}</p>
-        <a href="#">BUY</a>
+        <a href="sharukuffair.netlify.app">BUY</a>
       </div>
     </div>
   );

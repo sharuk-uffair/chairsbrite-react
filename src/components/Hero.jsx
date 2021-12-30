@@ -14,7 +14,7 @@ export default function Hero() {
               of beauty and comfort, that will have a lasting impact on your
               health.
             </p>
-            <a href="">Get your comfort now</a>
+            <a href="#">Get your comfort now</a>
           </div>
           <div className="box-2">
             <img src={hero} alt="hero-img" />

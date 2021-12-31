@@ -131,6 +131,8 @@ ion-icon {
   font-size: 34px;
   color: #087f5b;
   margin-bottom: 2.4rem;
+  background-color: #eefef9;
+  padding:0.8rem 1.6rem;
 }
 .feature-item h3{
   font-family: 'Marmelad';

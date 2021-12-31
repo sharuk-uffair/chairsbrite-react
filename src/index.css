@@ -132,7 +132,7 @@ ion-icon {
   color: #087f5b;
   margin-bottom: 2.4rem;
   background-color: #defdf3;
-  border-radius: 50%;
+  border-radius: 100px;
   padding:1.2rem 1.2rem;
 }
 .feature-item h3{

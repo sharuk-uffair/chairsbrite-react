@@ -5,7 +5,7 @@ function FeatureCard(props) {
   return (
     <>
       <div>
-        <span>{props.icon}</span>
+        <span className="fec-icon">{props.icon}</span>
         <h3>{props.name}</h3>
         <p>{props.des}</p>
       </div>
